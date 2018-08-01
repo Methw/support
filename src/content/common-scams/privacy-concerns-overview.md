@@ -24,8 +24,8 @@ You should not do this, especially if you have a large amount of crypto-wealth, 
 
 The increasing popularity of cryptocurrencies correlates with an increase in bad actor attention. It is possible that anyone on the same public network (coffee shop, library, etc) as you could be packet sniffing. Your private keys could be sniffed if you're interacting with them online.
 
-You can mitigate this by [Running MyCrypto Offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+You can mitigate this by [Running MyCrypto Offline](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html).
 
 -----
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.ethereumcommonwealth.io/getting-started/ethereum-glossary.html).

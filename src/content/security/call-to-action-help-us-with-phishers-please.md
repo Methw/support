@@ -27,11 +27,11 @@
 
 This is too much for one post so help spread the word: Private keys are *private*. Use hardware wallets. Use cold storage. Go offline. Check URLs.
 
-*   [Creating a wallet offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html)
+*   [Creating a wallet offline](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html)
 
-*   Getting a [Ledger or Trezor Hardware Wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) is even better.
+*   Getting a [Ledger or Trezor Hardware Wallet](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html) is even better.
 
-*   [You can sign transactions offline so your key never touches a phishing site!](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
+*   [You can sign transactions offline so your key never touches a phishing site!](https://support.ethereumcommonwealth.io/offline/making-offline-transaction-on-mycrypto.html)
 
 - Install EtherSecurityLookup to block malicious tweets / tweeters: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB)
 
@@ -45,9 +45,9 @@ This is too much for one post so help spread the word: Private keys are *private
 
 *   Do not trust messages or addresses or URLs sent via private message. Always verify information w/ a secondary source.
 
-*   Guide on [How to Prevent Loss & Theft](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html).
+*   Guide on [How to Prevent Loss & Theft](https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html).
 
-*   [Protips: How not to get scammed](https://support.mycrypto.com/security/mycrypto-protips-how-not-to-get-scammed-during-ico.html) *(needs cleanup and to be more generic)*
+*   [Protips: How not to get scammed](https://support.ethereumcommonwealth.io/security/mycrypto-protips-how-not-to-get-scammed-during-ico.html) *(needs cleanup and to be more generic)*
 
 
 ### 3. Report the absolute living daylights out of the malicious URLs
@@ -134,7 +134,7 @@ This is too much for one post so help spread the word: Private keys are *private
 
 - **Other References:**
 
-    - [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
+    - [https://support.ethereumcommonwealth.io/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.ethereumcommonwealth.io/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
 
     - [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn (Anti-Phishing CX)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn (Anti-Phishing CX))
 

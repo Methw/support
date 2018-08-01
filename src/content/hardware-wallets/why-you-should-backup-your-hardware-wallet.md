@@ -12,7 +12,7 @@
 
 ### Preface
 
-The following assumes you are using a Ledger Nano S or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are using a Ledger Nano S or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html).
 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
@@ -53,5 +53,5 @@ Hope this helps!
 
 * [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
-* [More on Hardware Wallets](https://support.mycrypto.com/hardware-wallets/)
+* [More on Hardware Wallets](https://support.ethereumcommonwealth.io/hardware-wallets/)
 

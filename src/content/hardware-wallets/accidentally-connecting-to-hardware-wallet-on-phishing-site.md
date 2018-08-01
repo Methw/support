@@ -17,4 +17,4 @@ However, a malicious site could hypothetically get you to send to an incorrect a
 
 This ONLY applies when you are connected to the Ledger or TREZOR. If you ever enter your word-phrase, private key, or keystore file, you are not protected.
 
-For more information about using Hardware Wallets with MyCrypto, [please go here](https://support.mycrypto.com/migration/).
+For more information about using Hardware Wallets with MyCrypto, [please go here](https://support.ethereumcommonwealth.io/migration/).

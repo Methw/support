@@ -28,7 +28,7 @@ If the account belongs to someone or an exchange, you should attempt to reach ou
 
 ### Related Articles
 
-[Sending and Receiving](https://support.mycrypto.com/send/)
+[Sending and Receiving](https://support.ethereumcommonwealth.io/send/)
 
 
 

@@ -18,11 +18,11 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 *  [See all the transactions that are pending here](https://etherscan.io/txsPending)
 
-*  [Learn about **Gas**, **TX Fees**, and how to get your TX to go through](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+*  [Learn about **Gas**, **TX Fees**, and how to get your TX to go through](https://support.ethereumcommonwealth.io/gas/what-is-gas-ethereum.html)
 
-*  [Replace a **pending TX** that you sent with too low gas](https://support.mycrypto.com/transactions/check-status-of-ethereum-transaction.html) (This is done by sending a 0 ETH transaction with the same nonce as your previous tx)
+*  [Replace a **pending TX** that you sent with too low gas](https://support.ethereumcommonwealth.io/transactions/check-status-of-ethereum-transaction.html) (This is done by sending a 0 ETH transaction with the same nonce as your previous tx)
 
-*  [Learn about what a **nonce** is and how it controls which transactions are mined, or not mined](https://support.mycrypto.com/transactions/what-is-nonce.html)
+*  [Learn about what a **nonce** is and how it controls which transactions are mined, or not mined](https://support.ethereumcommonwealth.io/transactions/what-is-nonce.html)
 
 *  [See what the **optimal gas price** for sending transactions is here (can be really helpful)](https://ethgasstation.info/)
 

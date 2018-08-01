@@ -12,7 +12,7 @@
 
 ### Preface
 
-The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html).
 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
@@ -21,7 +21,7 @@ You can run MyCrypto.com on your computer and this computer can be a cold-storag
 
 ### How To
 
-* First off, follow our guide on [running MyCrypto offline and locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+* First off, follow our guide on [running MyCrypto offline and locally](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html).
 * Open the "Create New Wallet" tab in the MyCrypto desktop application. Click "Generate a Keystore File".
 * Enter a strong but easy to remember password. Do not forget it.
     * _This encrypts (protects) your private key. It does not generate your private key. This password alone will **not** be enough to access your Ether._
@@ -61,6 +61,6 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ### Related Reading
 
-* [What is the difference between private key & Keystore / UTC file?](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
+* [What is the difference between private key & Keystore / UTC file?](https://support.ethereumcommonwealth.io/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
 
-* [Protecting yourself and your funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [Protecting yourself and your funds](https://support.ethereumcommonwealth.io/security/securing-your-ethereum.html)

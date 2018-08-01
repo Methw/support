@@ -34,7 +34,7 @@ You also need to ensure you keep these keys securely. This means:
 *   Don't save it to cloud storage
 *   Don't have Team Viewer or other remote access software on your computer
 
-If this seems very overwhelming, <a href="https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html" target="_blank">we recommend purchasing a Ledger or TREZOR hardware wallet</a>. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
+If this seems very overwhelming, <a href="https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html" target="_blank">we recommend purchasing a Ledger or TREZOR hardware wallet</a>. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
 
 ---
 

@@ -12,7 +12,7 @@
 
 ### If there are other bidders
 
-You can get 0.5% back by manually revealing, [as written up here](https://support.mycrypto.com/ens/manually-revealing-ens-bid.html). Unfortunately, you must reveal during the reveal period in order to win  the name, or get the full amount back.
+You can get 0.5% back by manually revealing, [as written up here](https://support.ethereumcommonwealth.io/ens/manually-revealing-ens-bid.html). Unfortunately, you must reveal during the reveal period in order to win  the name, or get the full amount back.
 
 ---
 

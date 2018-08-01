@@ -45,7 +45,7 @@ const partials_srcFolder = srcFolder + 'partials/'
 
 
 var Context = {
-  base_url : 'https://support.mycrypto.com/',
+  base_url : 'https://support.ethereumcommonwealth.io/',
   //base_url : 'http://localhost/',
   pages : [
 //  base_url    : '',
@@ -442,7 +442,7 @@ gulp.task('sitemap', function () {
     read: false
   })
   .pipe(sitemap({
-      siteUrl: "https://support.mycrypto.com"
+      siteUrl: "https://support.ethereumcommonwealth.io"
   }))
   .pipe(gulp.dest('./dist'));
 });

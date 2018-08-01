@@ -11,7 +11,7 @@
 
 
 
-#### [If you are a person experimenting with tokens, you can add a token to your local version of MyCrypto](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+#### [If you are a person experimenting with tokens, you can add a token to your local version of MyCrypto](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)
 
 MyCrypto ships with a default token list that allows our Token Scanner functionality to check balances for a pre-determined set of tokens and display them to the user.
 

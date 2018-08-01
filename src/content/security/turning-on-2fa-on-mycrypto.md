@@ -33,11 +33,11 @@ In order to implement it, we would need to store your key and protect it on our 
 
 If this is functionality that you do want, feel free to use any exchange / hosted wallet like Coinbase, Kraken, Poloniex, Bittrex, Bitfinex, Gemini, and so forth. Just be aware of the risk of letting someone hold your keys, and in turn, 2FA codes, for you.
 
-### Or, you know, spend the <$100 and get a [hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html). It's worth it. You can use it for 2FA on other services and to ensure the safety and security of your funds.
+### Or, you know, spend the <$100 and get a [hardware wallet](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html). It's worth it. You can use it for 2FA on other services and to ensure the safety and security of your funds.
 
 More information: https://github.com/kvhnuke/etherwallet/issues/292
 
 ### Related Reading
 
-[Security & Phishing](https://support.mycrypto.com/security/)
-[What is the Difference between and Exchange and MyCrypto?](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
+[Security & Phishing](https://support.ethereumcommonwealth.io/security/)
+[What is the Difference between and Exchange and MyCrypto?](https://support.ethereumcommonwealth.io/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)

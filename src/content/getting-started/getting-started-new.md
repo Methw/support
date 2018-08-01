@@ -164,7 +164,7 @@
 <li>  You don't have to rely on the security of an exchange or bank to keep your funds safe.  </li>
 <li>  If you don't find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉  </li>
 <li>  If you don't like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames &amp; passwords.  </li>
-<li>  If you are scared but want to use MyCrypto, [get a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.  </li>
+<li>  If you are scared but want to use MyCrypto, [get a hardware wallet](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.  </li>
 </ul>
 
 </div>
@@ -186,7 +186,7 @@
 Phishers send you a message with a link to a website that looks just like MyCrypto, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
 
 <ul>
-<li>  Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) Chrome Extension to block malicious websites.  </li>
+<li>  Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](https://support.ethereumcommonwealth.io/migration/moving-from-private-key-to-metamask.html) Chrome Extension to block malicious websites.  </li>
 <li>  Always check the URL: `https://mycrypto.com`.  </li>
 <li>  Always make sure the URL bar has `MyCrypto, Inc` in green.  </li>
 <li>  Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.  </li>
@@ -244,7 +244,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 <li>  If you have more than 1-week's worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It's worth it. I promise.  </li>
 </ul>
 
-<p><strong><a href="https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html">More Security Tips!</a></strong></p>
+<p><strong><a href="https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html">More Security Tips!</a></strong></p>
 
 </div>
 <div class="col col-sm-4 offset-sm-1">
@@ -263,18 +263,18 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 </h3>
 
 <ul>
-<li>  [Get a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).  </li>
-<li>  [How to set up MyCrypto + MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).  </li>
-<li>  [How to run MyCrypto Offline / Locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).  </li>
-<li>  [How to send via Ledger hardware wallet](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html).  </li>
-<li>  [How to send via TREZOR hardware wallet](https://support.mycrypto.com/hardware-wallets/trezor-sending-to-trezor-device.html).  </li>
-<li>  [How to send via MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).  </li>
-<li>  [How to create a new wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html).  </li>
-<li>  [How to back up your wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html).  </li>
-<li>  [How to verify you have access to the wallet](https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html).  </li>
-<li>  [How to send funds to your wallet](https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html).  </li>
-<li>  [How to check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html).  </li>
-<li>  [More Security Tips!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)  </li>
+<li>  [Get a hardware wallet](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html).  </li>
+<li>  [How to set up MyCrypto + MetaMask](https://support.ethereumcommonwealth.io/migration/moving-from-private-key-to-metamask.html).  </li>
+<li>  [How to run MyCrypto Offline / Locally](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html).  </li>
+<li>  [How to send via Ledger hardware wallet](https://support.ethereumcommonwealth.io/migration/moving-from-private-key-to-ledger-hardware-wallet.html).  </li>
+<li>  [How to send via TREZOR hardware wallet](https://support.ethereumcommonwealth.io/hardware-wallets/trezor-sending-to-trezor-device.html).  </li>
+<li>  [How to send via MetaMask](https://support.ethereumcommonwealth.io/migration/moving-from-private-key-to-metamask.html).  </li>
+<li>  [How to create a new wallet](https://support.ethereumcommonwealth.io/getting-started/creating-a-new-wallet-on-mycrypto.html).  </li>
+<li>  [How to back up your wallet](https://support.ethereumcommonwealth.io/getting-started/backing-up-your-new-wallet.html).  </li>
+<li>  [How to verify you have access to the wallet](https://support.ethereumcommonwealth.io/getting-started/accessing-your-new-eth-wallet.html).  </li>
+<li>  [How to send funds to your wallet](https://support.ethereumcommonwealth.io/faq/buying-selling-exchanging-eth-tokens-fiat.html).  </li>
+<li>  [How to check your balance](https://support.ethereumcommonwealth.io/getting-started/checking-balance-of-my-account.html).  </li>
+<li>  [More Security Tips!](https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html)  </li>
 </ul>
 
 </div>

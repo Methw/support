@@ -16,7 +16,7 @@ For increased security, you can run MyCrypto locally on your computer with our d
 
 
 ### Downloading and installing
-In order to setup your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the url bar, [don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html) Additionally, check the signed checksums, we made a guide about verifying the authenticity of the desktop app [here](https://support.mycrypto.com/security/verifying-authenticity-of-desktop-app.html).
+In order to setup your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the url bar, [don't see it?](https://support.ethereumcommonwealth.io/security/i-cannot-see-the-extended-validation-certificate.html) Additionally, check the signed checksums, we made a guide about verifying the authenticity of the desktop app [here](https://support.ethereumcommonwealth.io/security/verifying-authenticity-of-desktop-app.html).
 
 <center>![](https://i.imgur.com/9deFpcy.png)</center>
 
@@ -31,7 +31,7 @@ The application will let you know in case there is a new update available. To up
 
 ### Related Reading
 
-* [How To Make An Offline Transaction](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
+* [How To Make An Offline Transaction](https://support.ethereumcommonwealth.io/offline/making-offline-transaction-on-mycrypto.html)
 
-* [Checking the Balance of Your Account](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html)
+* [Checking the Balance of Your Account](https://support.ethereumcommonwealth.io/getting-started/checking-balance-of-my-account.html)
 

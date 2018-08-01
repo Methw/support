@@ -21,7 +21,7 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 ### Specifics to Connect To Your Local Node
 
-##### [First, download and run MyCrypto locally.](https://support.mycrypto.com/offline/running-mycrypto-locally.html)
+##### [First, download and run MyCrypto locally.](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html)
 
 * You must run MyCrypto locally. This is due to the fact that our SSL website won't connect to your non-SSL local node.
 
@@ -105,7 +105,7 @@ If you node is local, it's much easier to simply also run MyCrypto locally. [Dow
 
 If you wish to run MyCrypto locally + hardware wallet, you will need to have a self-signed certificate in order to connect to your hardware wallet via U2F. Browsers that support U2F require that these calls take place over SSL. This is not something we have control of.
 
-- [One way to do this is detailed here](https://support.mycrypto.com/offline/using-ledger-wallet-offline.html)
+- [One way to do this is detailed here](https://support.ethereumcommonwealth.io/offline/using-ledger-wallet-offline.html)
 
 ### Whoa, back up. How do I even run a node?
 

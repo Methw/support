@@ -117,11 +117,11 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Warning!
 
-*  If you are sending a huge number of tokens or ETH, please send a small, test amount first. Or, consider [getting a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) or [running MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html). This ensures you are as secure as possible.
+*  If you are sending a huge number of tokens or ETH, please send a small, test amount first. Or, consider [getting a hardware wallet](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html) or [running MyCrypto offline](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html). This ensures you are as secure as possible.
 
 
 
 ## Related Reading
 
 *  [MetaMask Privacy Policy](https://metamask.io/privacy.html)
-*  [How to Transfer Funds](https://support.mycrypto.com/send/how-to-send-transaction.html)
+*  [How to Transfer Funds](https://support.ethereumcommonwealth.io/send/how-to-send-transaction.html)

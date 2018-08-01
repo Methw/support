@@ -110,7 +110,7 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 6. Then select the token you would like to send from the dropdown next to Amount.
 
-7. Use the `Transaction Fee` slider to select how much [gas](https://support.mycrypto.com/gas/what-is-gas-ethereum.html) to use for your transaction. ![](https://i.imgur.com/KteZ6QV.png)
+7. Use the `Transaction Fee` slider to select how much [gas](https://support.ethereumcommonwealth.io/gas/what-is-gas-ethereum.html) to use for your transaction. ![](https://i.imgur.com/KteZ6QV.png)
 
 8. Click the `Send Transaction` button when you are ready to go. *(Don't worry, you will be able to review the transaction before it is sent)* ![](https://i.imgur.com/ehmhdcG.png)
 
@@ -120,7 +120,7 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 
 <div class="alert alert-info">
-  [If your transaction never shows up on Etherscan / Etherchain / MyCrypto after a new minutes, you may need to send with more gas. Click to learn more about gas.](https://support.mycrypto.com/gas/).
+  [If your transaction never shows up on Etherscan / Etherchain / MyCrypto after a new minutes, you may need to send with more gas. Click to learn more about gas.](https://support.ethereumcommonwealth.io/gas/).
 </div>
 
 
@@ -136,6 +136,6 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 ## Troubleshooting
 
-*  TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), as well as MyCrypto's [here](https://support.mycrypto.com/). There is a big chance that it's already listed on one of them.
+*  TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), as well as MyCrypto's [here](https://support.ethereumcommonwealth.io/). There is a big chance that it's already listed on one of them.
 
-*  If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.mycrypto.com/) support.
+*  If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.ethereumcommonwealth.io/) support.

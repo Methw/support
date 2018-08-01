@@ -9,7 +9,7 @@
 
 ---%
 
-Important note; This article is talking about presale wallets, for regular wallets take a look at the [Lost Password](https://support.mycrypto.com/private-keys-passwords/lost-ethereum-wallet-password.html) article.
+Important note; This article is talking about presale wallets, for regular wallets take a look at the [Lost Password](https://support.ethereumcommonwealth.io/private-keys-passwords/lost-ethereum-wallet-password.html) article.
 
 ### I forgot the password to my presale wallet file
 

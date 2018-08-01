@@ -18,5 +18,5 @@ For reference private key looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dc
 
 ### Related Articles
 
-[Lost Private Key](https://support.mycrypto.com/private-keys-passwords/lost-eth-private-key.html)
-[Private Key vs Keystore File](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
+[Lost Private Key](https://support.ethereumcommonwealth.io/private-keys-passwords/lost-eth-private-key.html)
+[Private Key vs Keystore File](https://support.ethereumcommonwealth.io/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)

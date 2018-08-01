@@ -12,7 +12,7 @@
 
 One of the important things that you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.
 
-Creating a wallet means you get a randomly generated private key and the address (public key) that corresponds to that private key. You will need your private key in order to access your address to send transactions. Please keep your private key(s) safe and secure. [How to Store and Guard your Private Key](https://support.mycrypto.com/security/how-to-securely-store-and-guard-your-private-key.html)
+Creating a wallet means you get a randomly generated private key and the address (public key) that corresponds to that private key. You will need your private key in order to access your address to send transactions. Please keep your private key(s) safe and secure. [How to Store and Guard your Private Key](https://support.ethereumcommonwealth.io/security/how-to-securely-store-and-guard-your-private-key.html)
 
 You can do this on a device that is connected to the internet or one that is not.
 

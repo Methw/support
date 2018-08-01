@@ -18,14 +18,14 @@ You can use [Shapeshift.io](http://shapeshift.io/) or another exchange to _swap
 
 We recommend [Exodus.io](https://www.exodus.io/) as a client-side, mutli-coin solution.
 
-Here is a list of default ERC-20 tokens that MyCrypto supports (as of May 28, 2017). However, [any ERC-20 token can be added to your local interface by following these instructions.](https://support.mycrypto.com/send/sending-and-adding-tokens.html)
+Here is a list of default ERC-20 tokens that MyCrypto supports (as of May 28, 2017). However, [any ERC-20 token can be added to your local interface by following these instructions.](https://support.ethereumcommonwealth.io/send/sending-and-adding-tokens.html)
 
 
 ### Related Reading
 
-- [How can I add a non-default token to MyCrypto?](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+- [How can I add a non-default token to MyCrypto?](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)
 
-- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html)
+- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.ethereumcommonwealth.io/tokens/token-creators-add-your-token-to-mycrypto.html)
 
 
 ### Default Tokens

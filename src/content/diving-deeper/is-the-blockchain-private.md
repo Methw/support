@@ -41,7 +41,7 @@ If an attacker decides they want your funds, they could use information availabl
 
 For this reason, it isn’t recommended that you publicly post your address on the internet. If you must publicly use an address, create a new address for that purpose alone. Similarly, do not make it known which or how much  cryptocurrency you hold (or even that you do at all). Just like you don’t leave piles cash laying around your house or post screenshots of your bank account to Facebook, don’t publish your cryptocurrency addresses or screenshots of your balances.
 
-For more information on how to protect yourself and your funds, [you can visit here](https://support.mycrypto.com/security/).
+For more information on how to protect yourself and your funds, [you can visit here](https://support.ethereumcommonwealth.io/security/).
 
 #### Sharing your Address with Someone so They Can Pay You
 

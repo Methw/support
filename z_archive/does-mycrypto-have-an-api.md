@@ -22,7 +22,7 @@ Our backend infrastructure is on AWS and you can actually do it yourself and run
 
 Or you could pay a small fee and use [QuikNode](https://quiknode.io/) which makes it even easier.
 
-For both of these options you could also connect to your new node via the "Add Custom Node" option in the network selector in the top-right corner. [Further details on how to connect to your own node can be found here.](https://support.mycrypto.com/networks/run-your-own-node-with-mycrypto.html)
+For both of these options you could also connect to your new node via the "Add Custom Node" option in the network selector in the top-right corner. [Further details on how to connect to your own node can be found here.](https://support.ethereumcommonwealth.io/networks/run-your-own-node-with-mycrypto.html)
 
 Or API directly to it (see the docs in the above APIs.)
 

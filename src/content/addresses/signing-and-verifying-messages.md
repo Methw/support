@@ -18,7 +18,7 @@ For example: if user A wants to provide evidence to user B that user A has acces
 
 ### Signing a message
 
-1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html)
+1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.ethereumcommonwealth.io/security/i-cannot-see-the-extended-validation-certificate.html)
 
 2. Access your wallet.
 

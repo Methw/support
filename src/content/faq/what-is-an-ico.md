@@ -29,4 +29,4 @@ There are many successful and truly valuable technologies and concepts that have
 
 After doing your own research and making a decision that a token is worth investing in, the next steps are to buy into the ICO.
 
-For more information please refer to : [Best Ways to Avoid Missing Out On That ICO](https://support.mycrypto.com/best-of/how-not-to-miss-out-on-ico.html)
+For more information please refer to : [Best Ways to Avoid Missing Out On That ICO](https://support.ethereumcommonwealth.io/best-of/how-not-to-miss-out-on-ico.html)

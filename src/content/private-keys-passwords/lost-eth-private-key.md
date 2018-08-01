@@ -31,4 +31,4 @@ MyCrypto is not a "web wallet". You do not create an account or give us your ETH
 *   If you know _when_ you created it, look through all files during that time period for any documents or screenshots.
 *   Generate a new wallet via [https://mycrypto.com/generate](https://mycrypto.com/generate) and take a look at the different options you may have downloaded or saved. Sometimes that can jog your memory.
 
-In the future, we highly recommend you print out a paper version of your wallet and keep it in multiple physical locations. [You can read more about how to safely back up your wallet here.](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+In the future, we highly recommend you print out a paper version of your wallet and keep it in multiple physical locations. [You can read more about how to safely back up your wallet here.](https://support.ethereumcommonwealth.io/getting-started/backing-up-your-new-wallet.html)

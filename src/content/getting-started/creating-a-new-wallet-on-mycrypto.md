@@ -14,7 +14,7 @@
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and to store your funds.
 
-The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html).
 
 Remember to back up any wallets you create! Including the 12-word private seed phrase for your hardware wallets! MyCrypto <em>CAN NOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly avaliable on the blockchain. The security and responsibilty of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have on how to be safe with your funds.  
 
@@ -98,9 +98,9 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ### Related Reading
 
-* [What is the difference between private key & Keystore / UTC file?](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
+* [What is the difference between private key & Keystore / UTC file?](https://support.ethereumcommonwealth.io/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
 
-* [Protecting yourself and your funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [Protecting yourself and your funds](https://support.ethereumcommonwealth.io/security/securing-your-ethereum.html)
 
 
 ### Short Version (Advanced Users Only)

@@ -56,7 +56,7 @@ There is no guarantee this will work, nor that it will work every time. This too
 
     - **Transaction Found:** Your transaction was successfully mined and is on the blockchain. Click the link provided.
         - If you see a red ( ! ) symbol, or a "BAD INSTRUCTION" or "OUT OF GAS" error message, it means that the transaction was not successfully *sent*. You cannot cancel or replace this transaction. Instead, send a new transaction. If you received an "Out of Gas" error, you should double the gas limit you specified originally.
-        - If you do not see any errors, your transaction was successfully sent. Your ETH or Tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account ~24 hours after sending, please [contact that service](https://support.mycrypto.com/diving-deeper/ethereum-list-of-support-and-communities.html). Send them the *link* to your transaction and ask them, nicely, to look into your situation.
+        - If you do not see any errors, your transaction was successfully sent. Your ETH or Tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account ~24 hours after sending, please [contact that service](https://support.ethereumcommonwealth.io/diving-deeper/ethereum-list-of-support-and-communities.html). Send them the *link* to your transaction and ask them, nicely, to look into your situation.
 
     - **Transaction Not Found:** This transaction cannot be found in the TX Pool of the node you are connected to. However, it could be in a different TX Pool, waiting to be mined. Please use the dropdown in the upper-right to select a different ETH node (e.g. `ETH (Etherscan.io)` or `ETH (Infura.io)` or `ETH (MyCrypto)`) and check again.
 
@@ -130,6 +130,6 @@ The reason we recommend `Canceling` over  `Replacing` is that it is not guarante
 
 ### Related Articles
 
-- [You can learn more about gas & gas limit vs gas price here.](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+- [You can learn more about gas & gas limit vs gas price here.](https://support.ethereumcommonwealth.io/gas/what-is-gas-ethereum.html)
 
-- [You can learn more about nonce here](https://support.mycrypto.com/transactions/what-is-nonce.html)
+- [You can learn more about nonce here](https://support.ethereumcommonwealth.io/transactions/what-is-nonce.html)

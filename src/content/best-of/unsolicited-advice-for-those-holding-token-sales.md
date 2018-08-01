@@ -38,9 +38,9 @@
 
 11. Encourage users to get a hardware wallet or run MyCrypto offline or run a full node.
 
-12. Get your token on MyCrypto & provide custom message when users enter your address: https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html
+12. Get your token on MyCrypto & provide custom message when users enter your address: https://support.ethereumcommonwealth.io/tokens/token-creators-add-your-token-to-mycrypto.html
 
-You are free to use, modify, or shamelessely steal any information in our knowledge base. A shoutout is nice, but not required. Take advantage of this. https://support.mycrypto.com/
+You are free to use, modify, or shamelessely steal any information in our knowledge base. A shoutout is nice, but not required. Take advantage of this. https://support.ethereumcommonwealth.io/
 
 ---
 
@@ -73,13 +73,13 @@ You are free to use, modify, or shamelessely steal any information in our knowle
 
 - Encourage people to install [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) (uses above to block malicious sites)
 
-- Encourage people to be secure: [https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
+- Encourage people to be secure: [https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html](https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html)
 
 - Look over how 0x did things to prevent scams. Philippe is like the best ever, touch base with him for the code for Slack if you need it (blacklists and auto-deletes malicious messages). [https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470](https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470)
 
 - MetaCert also provides similar functionality. Paul (Founder) is on Twitter and loves helping ICO's protect their investors. Get in touch with him.
 
-- Starter template on  what to tell people who get phished: [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
+- Starter template on  what to tell people who get phished: [https://support.ethereumcommonwealth.io/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.ethereumcommonwealth.io/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
 
 ![](../images/best-of/unsolicited-advice.png)
 

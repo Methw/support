@@ -16,4 +16,4 @@ If MyCrypto.com goes down, you would have to find another way (like geth or Ethe
 
 You can import your unencrypted private key and your Geth/Mist Format (encrypted) files directly into geth / Ethereum Wallet / Mist very easily.
 
-You can also run [MyCrypto locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html) and/or [connect it to your own node](https://support.mycrypto.com/networks/run-your-own-node-with-mycrypto.html).
+You can also run [MyCrypto locally](https://support.ethereumcommonwealth.io/offline/running-mycrypto-locally.html) and/or [connect it to your own node](https://support.ethereumcommonwealth.io/networks/run-your-own-node-with-mycrypto.html).

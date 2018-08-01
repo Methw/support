@@ -22,5 +22,5 @@ This is **not** a TX  fee that MyCrypto, or any other service provider, receives
 
 ### Related Reading
 
-[Gas and Transaction Fees](https://support.mycrypto.com/gas/)
-[Transaction Failed: Out of Gas](https://support.mycrypto.com/transactions/transaction-failed-out-of-gas.html)
+[Gas and Transaction Fees](https://support.ethereumcommonwealth.io/gas/)
+[Transaction Failed: Out of Gas](https://support.ethereumcommonwealth.io/transactions/transaction-failed-out-of-gas.html)

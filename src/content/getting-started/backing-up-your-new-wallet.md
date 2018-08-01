@@ -11,9 +11,9 @@
 
 ### Preface
 
-The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html).
 
-To save / backup your [Ledger](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html) or [TREZOR](https://support.mycrypto.com/migration/moving-from-private-key-to-trezor-hardware-wallet.html) device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
+To save / backup your [Ledger](https://support.ethereumcommonwealth.io/migration/moving-from-private-key-to-ledger-hardware-wallet.html) or [TREZOR](https://support.ethereumcommonwealth.io/migration/moving-from-private-key-to-trezor-hardware-wallet.html) device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
 ### How to back up your Account
 
@@ -40,6 +40,6 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ### Related Reading
 
-* [What is the difference between private key & Keystore / UTC file?](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
+* [What is the difference between private key & Keystore / UTC file?](https://support.ethereumcommonwealth.io/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
 
-* [Protecting yourself and your funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [Protecting yourself and your funds](https://support.ethereumcommonwealth.io/security/securing-your-ethereum.html)

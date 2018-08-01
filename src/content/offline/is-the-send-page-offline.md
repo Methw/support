@@ -14,7 +14,7 @@ No, it needs the internet in order to get the current gas price, nonce of your a
 
 ### Related Reading
 
-[How can MyCrypto Send Offline?](https://support.mycrypto.com/offline/sending-offline-with-mycrypto.html)
-[Sending and Receiving](https://support.mycrypto.com/send/)
+[How can MyCrypto Send Offline?](https://support.ethereumcommonwealth.io/offline/sending-offline-with-mycrypto.html)
+[Sending and Receiving](https://support.ethereumcommonwealth.io/send/)
 
 

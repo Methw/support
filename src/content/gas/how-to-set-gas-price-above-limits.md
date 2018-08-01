@@ -16,4 +16,4 @@
 
 Please note that the TX Fee is the `gas limit * gas price`. This means that a contract transaction with a gas limit of `200000` using a gas price of `150 GWEI` would cost `0.03 ETH`.
 
-If you are unfamiliar with how gas limit & gas price work together, please check out [our pretty rockin' guide on gas first.](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+If you are unfamiliar with how gas limit & gas price work together, please check out [our pretty rockin' guide on gas first.](https://support.ethereumcommonwealth.io/gas/what-is-gas-ethereum.html)

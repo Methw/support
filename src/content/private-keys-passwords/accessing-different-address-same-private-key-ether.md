@@ -34,7 +34,7 @@ Scroll to the bottom of https://legacy.mycrypto.com/helpers.html, enter your pri
 
 - Finding multiple missing characters in private key: https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a
 
-- Find multiple missing characters of the very end of a private key: https://support.mycrypto.com/private-keys-passwords/missing-characters-of-private-key.html
+- Find multiple missing characters of the very end of a private key: https://support.ethereumcommonwealth.io/private-keys-passwords/missing-characters-of-private-key.html
 
 - Find 1 missing character anywhere in private key (fast):
 

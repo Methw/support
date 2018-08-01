@@ -22,7 +22,7 @@
 
 ![](https://i.imgur.com/4quT3w5.png)
 
-### 4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html) for instructions on how to add a token.
+### 4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html) for instructions on how to add a token.
 
 ![](https://i.imgur.com/p2KEduQ.png)
 
@@ -34,6 +34,6 @@
 
 ### Related Links
 
-[Adding a Custom Token](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
-[Receiving Tokens](https://support.mycrypto.com/tokens/receiving-tokens.html)
+[Adding a Custom Token](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)
+[Receiving Tokens](https://support.ethereumcommonwealth.io/tokens/receiving-tokens.html)
 

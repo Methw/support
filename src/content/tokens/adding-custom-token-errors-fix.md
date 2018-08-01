@@ -22,4 +22,4 @@ This happens when you accidentally inputted the incorrect decimal value when ent
 
 To fix these errors please remove the token from your MyCrypto Interface and re-add the token. To remove a custom token, click the little `( - )` icon next to token you wish to re-add. This will remove it from the interface. It is not deleting or removing the tokens from your wallet, they are still safely in your wallet, we promise.
 
-#### Please follow our guide on how to add a token for further guidance. [Adding Custom Ethereum (ERC-20) Tokens](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+#### Please follow our guide on how to add a token for further guidance. [Adding Custom Ethereum (ERC-20) Tokens](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)

@@ -13,8 +13,8 @@ MyCrypto aims to deliver an easy-to-use and secure platform. Due to an increase 
 
 ### If you are using a Parity Phrase
 
-1.   [Generate a new wallet, securely. ](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html)
-2.   [Back up your new wallet, securely.](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+1.   [Generate a new wallet, securely. ](https://support.ethereumcommonwealth.io/getting-started/creating-a-new-wallet-on-mycrypto.html)
+2.   [Back up your new wallet, securely.](https://support.ethereumcommonwealth.io/getting-started/backing-up-your-new-wallet.html)
 3.   Go to the [legacy send page.](https://legacy.mycrypto.com/#send-transaction)
 4.   Unlock your new wallet.
 5.   Copy your address on the right hand side.

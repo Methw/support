@@ -124,6 +124,6 @@ for(var i = 0; i <= maxVal; i++){
 
 - Finding multiple missing characters in private key: https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a
 
-- Find multiple missing characters of the very end of a private key: https://support.mycrypto.com/private-keys-passwords/missing-characters-of-private-key.html
+- Find multiple missing characters of the very end of a private key: https://support.ethereumcommonwealth.io/private-keys-passwords/missing-characters-of-private-key.html
 
-- Find 1 missing character anywhere in private key (fast): https://support.mycrypto.com/private-keys-passwords/accessing-different-address-same-private-key-ether.html
+- Find 1 missing character anywhere in private key (fast): https://support.ethereumcommonwealth.io/private-keys-passwords/accessing-different-address-same-private-key-ether.html

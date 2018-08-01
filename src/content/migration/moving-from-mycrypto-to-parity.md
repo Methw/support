@@ -22,4 +22,4 @@ Then, open Parity away you go. 🎉
 
 ### Related Reading
 
-*  [How to find your keystore file](https://support.mycrypto.com/migration/location-of-mist-geth-wallet-files.html)
+*  [How to find your keystore file](https://support.ethereumcommonwealth.io/migration/location-of-mist-geth-wallet-files.html)

@@ -51,10 +51,10 @@ For this reason, it is very, very important to keep your private key a secret an
 
 ### Related Reading
 
-* [Backing up your wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+* [Backing up your wallet](https://support.ethereumcommonwealth.io/getting-started/backing-up-your-new-wallet.html)
 
-* [Sending & Receiving](https://support.mycrypto.com/send/)
+* [Sending & Receiving](https://support.ethereumcommonwealth.io/send/)
 
-* [Protecting Yourself and Your Funds](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
+* [Protecting Yourself and Your Funds](https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html)
 
-* [Difference between an exchange and MyCrypto](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
+* [Difference between an exchange and MyCrypto](https://support.ethereumcommonwealth.io/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)

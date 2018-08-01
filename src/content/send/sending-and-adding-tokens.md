@@ -14,7 +14,7 @@
 3.  Enter the address you would like to send to in the "To Address:" field.
 4.  Enter the amount you would like to send.
 5.  Select which token you would like to send.
-6.  **[If you do not see the token listed, click here](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)**
+6.  **[If you do not see the token listed, click here](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)**
 7.  Click "Send Transaction".
 8.  A couple more fields will appear. This is your browser generating the transaction.
 9.  Click the blue "Send Transaction" button below that.
@@ -23,4 +23,4 @@
 
 ### Related Reading
 
-*  [How to Add a Custom Token if it doesn't show in the list](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+*  [How to Add a Custom Token if it doesn't show in the list](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)

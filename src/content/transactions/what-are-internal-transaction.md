@@ -17,6 +17,6 @@ When withdrawing, you need to make sure that the receiving address supports smar
 
 ![](https://i.imgur.com/KRrv6r8.jpg)
 
-If you can't see your transaction, please take a look at our article [here](https://support.mycrypto.com/transactions/transactions-not-showing-or-pending.html)
+If you can't see your transaction, please take a look at our article [here](https://support.ethereumcommonwealth.io/transactions/transactions-not-showing-or-pending.html)
 
-If you see that your transaction was successful but you can't see the tokens in your account, please refer to our article about [adding a custom token to your MyCrypto Interface here](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+If you see that your transaction was successful but you can't see the tokens in your account, please refer to our article about [adding a custom token to your MyCrypto Interface here](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)

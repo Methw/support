@@ -26,7 +26,7 @@ You can see the diversity of phishing sites, fake airdrop sites, fake ICO sites,
 
 Beyond that we've also seen computers be compromised with malware, keyloggers, clipboard loggers, and more. Having remote access software (TeamViewer) or keeping keys on cloud storage can also be detrimental.  
 
-We hope that the [Common Scams](https://support.mycrypto.com/common-scams/) articles can help people that are new to information security to avoid common scams that are relevant in todays Ethereum ecosystem.
+We hope that the [Common Scams](https://support.ethereumcommonwealth.io/common-scams/) articles can help people that are new to information security to avoid common scams that are relevant in todays Ethereum ecosystem.
 
 #### High Level Tips for Security:
 
@@ -42,16 +42,16 @@ We hope that the [Common Scams](https://support.mycrypto.com/common-scams/) arti
 
 ## Visit the following links to see instances of common Scams:
 
-#### [Phishing Overview](https://support.mycrypto.com/common-scams/phishing-overview.html) - Scams/hacks relating to Phishing
+#### [Phishing Overview](https://support.ethereumcommonwealth.io/common-scams/phishing-overview.html) - Scams/hacks relating to Phishing
 
-#### [Hardware Wallet Scams](https://support.mycrypto.com/common-scams/hardware-wallet-scams-overview.html) - Scams/hacks relating to Hardware Wallets
+#### [Hardware Wallet Scams](https://support.ethereumcommonwealth.io/common-scams/hardware-wallet-scams-overview.html) - Scams/hacks relating to Hardware Wallets
 
-#### [Malicious Software](https://support.mycrypto.com/common-scams/malicious-software-overview.html) - Scams/hacks relating to Computing Habits
+#### [Malicious Software](https://support.ethereumcommonwealth.io/common-scams/malicious-software-overview.html) - Scams/hacks relating to Computing Habits
 
-#### [Privacy Concerns](https://support.mycrypto.com/common-scams/privacy-concerns-overview.html) - Privacy Concerns
+#### [Privacy Concerns](https://support.ethereumcommonwealth.io/common-scams/privacy-concerns-overview.html) - Privacy Concerns
 
 -----
 
 #### Security and Cryptocurrency Terminology:
 
-Some terminology that is useful for security-related discussions and general cryptocurrency discussions can be found here: [https://support.mycrypto.com/getting-started/ethereum-glossary.html](https://support.mycrypto.com/getting-started/ethereum-glossary.html)
+Some terminology that is useful for security-related discussions and general cryptocurrency discussions can be found here: [https://support.ethereumcommonwealth.io/getting-started/ethereum-glossary.html](https://support.ethereumcommonwealth.io/getting-started/ethereum-glossary.html)

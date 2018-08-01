@@ -29,6 +29,6 @@ If you encounter the following error "Warning! Error encountered during contract
 
 ## Related Reading
 
-* [What is Gas?](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+* [What is Gas?](https://support.ethereumcommonwealth.io/gas/what-is-gas-ethereum.html)
 
-* [Setting the Gas Price Above the Slider Limits](https://support.mycrypto.com/gas/how-to-set-gas-price-above-limits.html)
+* [Setting the Gas Price Above the Slider Limits](https://support.ethereumcommonwealth.io/gas/how-to-set-gas-price-above-limits.html)

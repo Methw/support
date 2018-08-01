@@ -1,6 +1,6 @@
 # MyCrypto Knowledge Base
 
-Live site can be found at [https://support.mycrypto.com](https://support.mycrypto.com).
+Live site can be found at [https://support.ethereumcommonwealth.io](https://support.ethereumcommonwealth.io).
 
 
 ### Quick Start Guide

@@ -109,7 +109,7 @@ Check to make sure your account details match up. From this screen you can send 
 
 - [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
 
-- [Traditional Hardware Wallet Recommendations](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
+- [Traditional Hardware Wallet Recommendations](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html)
 
 
 

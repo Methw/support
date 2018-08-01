@@ -48,4 +48,4 @@ Reference:
 
 -----
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.ethereumcommonwealth.io/getting-started/ethereum-glossary.html).

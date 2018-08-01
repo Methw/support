@@ -28,7 +28,7 @@ In this type of attack, an attacker would purchase hardware wallets, record the 
 
 The image below shows a hardware wallet posted for resale:
 
-[<img src="../images/common-scams/preowned-hardware-wallet.PNG" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/preowned-hardware-wallet.PNG)
+[<img src="../images/common-scams/preowned-hardware-wallet.PNG" style="width: 100%; height: auto; max-width: 400px;">](https://support.ethereumcommonwealth.io/images/common-scams/preowned-hardware-wallet.PNG)
 
 ##### How can I mitigate this?
 
@@ -44,4 +44,4 @@ When you find these scams, post about them on social media like Reddit and Twitt
 
 -----
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.ethereumcommonwealth.io/getting-started/ethereum-glossary.html).

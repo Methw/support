@@ -24,8 +24,8 @@ At the end of the day, it's up to you though.
 
 ### Related Reading
 
-- [What is Gas?](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+- [What is Gas?](https://support.ethereumcommonwealth.io/gas/what-is-gas-ethereum.html)
 
-- [How to See & Add Custom Tokens](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+- [How to See & Add Custom Tokens](https://support.ethereumcommonwealth.io/tokens/adding-new-token-and-sending-custom-tokens.html)
 
-- [Which tokens does MyCrypto support?](https://support.mycrypto.com/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html)
+- [Which tokens does MyCrypto support?](https://support.ethereumcommonwealth.io/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html)

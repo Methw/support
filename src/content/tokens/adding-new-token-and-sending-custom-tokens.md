@@ -69,8 +69,8 @@ To remove a custom token, click the little ( - ) icon next to the token. This wi
 
 ### Related Reading
 
-- [Showing & Loading Custom Tokens](https://support.mycrypto.com/tokens/showing-and-loading-tokens.html)
+- [Showing & Loading Custom Tokens](https://support.ethereumcommonwealth.io/tokens/showing-and-loading-tokens.html)
 
-- [Can I store any coin in MyCrypto?](https://support.mycrypto.com/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html)
+- [Can I store any coin in MyCrypto?](https://support.ethereumcommonwealth.io/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html)
 
-- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html)
+- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](https://support.ethereumcommonwealth.io/tokens/token-creators-add-your-token-to-mycrypto.html)

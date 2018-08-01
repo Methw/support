@@ -112,7 +112,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * Never type the word-phrase on your computer. It defeats the purpose of your hardware wallet.
 
--[See here for more information about Hardware Wallets](https://support.mycrypto.com/hardware-wallets/)
+-[See here for more information about Hardware Wallets](https://support.ethereumcommonwealth.io/hardware-wallets/)
 
 ### AddressIdenticon / AddressIcon:
 
