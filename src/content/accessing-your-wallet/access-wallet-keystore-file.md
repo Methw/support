@@ -29,7 +29,7 @@ A keystore file (sometimes called a UTC file) in Ethereum is an encrypted versio
 
 ### Accessing your Wallet
 
-1. Navigate to the [View & Send](https://mycrypto.com/account) page.
+1. Navigate to the [View & Send](https://ethereumproject.github.io/etherwallet/#send-transaction) page.
 2. Select option for Keystore file.
 3. Read the warning and check off the 3 boxes. Click "Continue"
 4. Upload the Keystore file.
@@ -49,7 +49,7 @@ While we used the "View & Send" page to access your wallet this time, it is not 
 
 Instead, search your address (or bookmark it) on [etherscan.io](https://etherscan.io) or [etherchain.org](https://www.etherchain.org/).
 
-While you are at it, you should bookmark [https://mycrypto.com/account](https://mycrypto.com/account) as well.
+While you are at it, you should bookmark [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) as well.
 
 MyCrypto is a client-side wallet, which means you hold your own keys. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There are no stopping of transactions, canceling transactions, or resetting passwords. Once a transaction is on the blockchain, it's final.
 

@@ -129,6 +129,6 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 3.  Write down the phrase in order.
 4.  Select the `"Confirm Phrase"` button.
 5.  Follow the directions to confirm the mnemonic phrase.
-6.  Log into the account on [https://mycrypto.com/account](https://mycrypto.com/account) using the mnemonic phrase option.
+6.  Log into the account on [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) using the mnemonic phrase option.
 7.  Save your address to a text document & bookmark the link to it on [https://etherscan.io/](https://etherscan.io/).
 8.  Ensure all information matches. Don't lose this information. Double check your work.

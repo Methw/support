@@ -32,7 +32,7 @@ You can use Ethplorer or Etherscan to find out the parameters of your token.
 #### via [Ethplorer.io](https://ethplorer.io/) 
 
 
-0.  On the ["Send"](https://mycrypto.com/account) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
+0.  On the ["Send"](https://ethereumproject.github.io/etherwallet/#send-transaction) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
 1.  In a new tab, go to [Ethplorer.io](https://ethplorer.io/) 
 2.  Navigate to your address
 3.  Scroll down until you see `Token Balances`
@@ -48,7 +48,7 @@ You can use Ethplorer or Etherscan to find out the parameters of your token.
 
 #### via [etherscan.io](https://etherscan.io)
 
-0.  On the ["Send"](https://mycrypto.com/account) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
+0.  On the ["Send"](https://ethereumproject.github.io/etherwallet/#send-transaction) page on MyCrypto, click `View w/ Address Only (Must use one of other options to send transactions)` and paste *your* address.
 1.  In the sidebar, click the `https://etherscan.io` link under `Transaction History` or `How to See your Tokens`.
 2.  Click the dropdown in the right-upper quadrant. It's labeled `Token Tracker`.
 3.  Click the token that you aren't seeing on MyCrypto.

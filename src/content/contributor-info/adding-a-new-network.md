@@ -24,7 +24,7 @@ If you meet all of those requirements, all that's left is to [make a pull reques
 3. Add your network configuration to `common/features/config/networks/static/reducer.ts`
 4. Add your network's key (matching the key in `reducer.ts`) to `shared/types/network.d.ts`
 
-If you'd like to provide users with a direct link to your network without having to select it from the dropdown, you can send a URL like https://mycrypto.com/account?network={network} where `{network}` is the key from the `reducer.ts` config.
+If you'd like to provide users with a direct link to your network without having to select it from the dropdown, you can send a URL like https://ethereumproject.github.io/etherwallet/#send-transaction?network={network} where `{network}` is the key from the `reducer.ts` config.
 
 ## Example
 [This commit exemplifies the process described above.](https://github.com/MyCryptoHQ/MyCrypto/pull/1962/files)

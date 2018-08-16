@@ -15,7 +15,7 @@ _I sent ETC to my ETH wallet by mistake._
 
 In order to see your ETC and interact with the ETC chain, you must first be on an ETC node.
 
-1. Select "ETC (AUTO)" in the node-switcher in the top-right corner of [https://mycrypto.com/account](https://mycrypto.com/account).
+1. Select "ETC (AUTO)" in the node-switcher in the top-right corner of [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction).
 
 2. Unlock your wallet to send ETC to interact with the ETC chain.
 

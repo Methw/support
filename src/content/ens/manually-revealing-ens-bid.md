@@ -43,7 +43,7 @@ Once you find this, copy and paste the value in the "Input Data" into a text doc
 
 ### Send Transaction to Reveal
 
-1. In a new tab, go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock the wallet for the address that you placed the bid on. This address should also be the same address entered on the https://legacy.mycrypto.com/helpers.html.
+1. In a new tab, go to [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) and unlock the wallet for the address that you placed the bid on. This address should also be the same address entered on the https://legacy.mycrypto.com/helpers.html.
 
 2. Enter the following information into the fields:
 

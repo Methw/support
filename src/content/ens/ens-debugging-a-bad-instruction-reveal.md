@@ -42,7 +42,7 @@ When you do this, the following four fields will populate with long data. You wa
 
 ### 4\. Once you match the string successfully, you can reveal your bid manually using this exact information.
 
-Copy the "Reveal Data" string and go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock the wallet for the address that you placed the bid on. This address should also be the same address entered on the https://legacy.mycrypto.com/helpers.html.
+Copy the "Reveal Data" string and go to [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) and unlock the wallet for the address that you placed the bid on. This address should also be the same address entered on the https://legacy.mycrypto.com/helpers.html.
 
 Enter the following information into the fields:
 

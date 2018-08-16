@@ -11,7 +11,7 @@
 
 _"Can I turn my unencrypted private key into an encrypted private key?"_
 
-* Yes, you can encrypt your private key using MyCrypto by accessing your address on [https://mycrypto.com/account/info](https://mycrypto.com/account/info) and then click the "Generate a Keystore File" button.
+* Yes, you can encrypt your private key using MyCrypto by accessing your address on [https://ethereumproject.github.io/etherwallet/#send-transaction/info](https://ethereumproject.github.io/etherwallet/#send-transaction/info) and then click the "Generate a Keystore File" button.
 
 * After clicking the button there will be a password field that you can enter a new password to encrypt your private key.
 

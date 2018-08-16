@@ -18,7 +18,7 @@ For example: if user A wants to provide evidence to user B that user A has acces
 
 ### Signing a message
 
-1.  Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.ethereumcommonwealth.io/security/i-cannot-see-the-extended-validation-certificate.html)
+1.  Go to the [message signing page on MyCrypto](https://ethereumproject.github.io/etherwallet/#messages). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.ethereumcommonwealth.io/security/i-cannot-see-the-extended-validation-certificate.html)
 
 2. Access your wallet.
 
@@ -45,7 +45,7 @@ For example: if user A wants to provide evidence to user B that user A has acces
 
 ### Verifying a message
 
-1.  Go to the [message verifying page on MyCrypto](https://mycrypto.com/sign-and-verify-message/verify).
+1.  Go to the [message verifying page on MyCrypto](https://ethereumproject.github.io/etherwallet/#messages).
 
 2.  Enter the signed message that you want to check, and click "Verify Message".
 

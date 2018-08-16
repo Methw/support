@@ -9,7 +9,7 @@
 
 ---%
 
-1.  Navigate to the [View & Send](https://mycrypto.com/account) page.
+1.  Navigate to the [View & Send](https://ethereumproject.github.io/etherwallet/#send-transaction) page.
 2.  Unlock your wallet.
 3.  Enter the address you would like to send to in the "To Address:" field.
 4.  Enter the amount you would like to send.

@@ -31,4 +31,4 @@ You can also see all tokens on https://etherscan.io/ now. Your balances are in t
 
 ### MyCrypto
 
-You can also enter your address on MyCrypto's [View & Send](https://mycrypto.com/account) page by selecting the "View Address" option at the bottom. Note: This only allows your to **view** your balances, **NOT** access you wallet to send funds. Remember, you must have the private key in order to access your account.
+You can also enter your address on MyCrypto's [View & Send](https://ethereumproject.github.io/etherwallet/#send-transaction) page by selecting the "View Address" option at the bottom. Note: This only allows your to **view** your balances, **NOT** access you wallet to send funds. Remember, you must have the private key in order to access your account.

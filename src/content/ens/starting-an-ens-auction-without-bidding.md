@@ -15,7 +15,7 @@ You can open an auction without bidding. It's not the simplest thing in the worl
 *  Find `NS Debugger & Data Grabber`
 *  Type the name (without .eth) under `ENS Name you Bid on`
 *  Copy the data provided under `Start Auction Data`
-*  In a new tab, go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock the wallet you wish to start the auction with
+*  In a new tab, go to [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) and unlock the wallet you wish to start the auction with
 *  Enter the following information into the fields:
     *  To: `0x6090a6e47849629b7245dfa1ca21d94cd15878ef`
     *  Amount: `0 ETH`

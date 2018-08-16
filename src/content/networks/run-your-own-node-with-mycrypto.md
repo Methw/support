@@ -91,7 +91,7 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 * This should immediately connect or an error message will display.
 
-* If no errors, go to [https://mycrypto.com/account](https://mycrypto.com/account) and unlock via "View Address".
+* If no errors, go to [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) and unlock via "View Address".
 
 * Verify balances are loading correctly.
 

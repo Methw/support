@@ -131,4 +131,4 @@
 
 60. You can run MyCrypto locally instead of trusting our URL
 
-61. You can turn your unencrypted private key into a keystore file by logging into your account in the [View & Send](https://mycrypto.com/account) page
+61. You can turn your unencrypted private key into a keystore file by logging into your account in the [View & Send](https://ethereumproject.github.io/etherwallet/#send-transaction) page
