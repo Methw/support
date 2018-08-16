@@ -148,7 +148,7 @@ Gezien we MyCrypto.com continu updaten, raden we je aan om regelmatig je opgesla
 
 #### Wat gebeurd er als deze website stopt?
 
-MyCrypto is geen web wallet. Je hoeft niet in te loggen en er zal nooit iets van je op onze servers worden bewaard. Onze website is enkel een interface om toegang te verkrijgen tot de blockchain.
+ClassicEtherWallet is geen web wallet. Je hoeft niet in te loggen en er zal nooit iets van je op onze servers worden bewaard. Onze website is enkel een interface om toegang te verkrijgen tot de blockchain.
 
 Als MyCrypto.com er mee stopt, zul je een andere manier moeten zien te vinden (zoals geth of Ethereum Wallet / Mist) om te doen wat wij doen. Maar wat je niet zult hoeven te doen is je Ether uit MyCrypto halen omdat het niet in MyCrypto zit. Je Ether zit in in welk wallet dan ook je op onze site hebt gegenereerd.
 
@@ -290,7 +290,7 @@ Uiteraard gaat bovenstaande er vanuit dat de sleutels worden gegenereerd met een
 
 Als een van je eerste vragen is: "Waarom zou ik deze mensen moeten vertrouwen?", dan is dat alleen maar goed. Hopelijk zal het volgende je angst verminderen.
 
-*   We zijn up en running sinds augustus 2015\. Als je zoekt naar ["mycrypto" on reddit](https://www.reddit.com/search?q=mycrypto), zul je tal van mensen vinden die ons met groot succes gebruiken.
+*   We zijn up en running sinds augustus 2015\. Als je zoekt naar ["ClassicEtherWallet" on reddit](https://www.reddit.com/search?q=mycrypto), zul je tal van mensen vinden die ons met groot succes gebruiken.
 *   We gaan je niet je geld afnemen of je prive sleutel(s) stelen. Onze website bevat geen kwaadaardige code. Sterker nog, de "GENEREER WALLET" paginas zijn volledig client-side. Dit betekend dat alle code wordt uitgevoerd op **jouw computer** en dat het buiten jouw computer niets bewaard of verstuurd.
 *   Controleer de URL -- Deze website draait vanaf GitHub en je kunt de bron code hier vinden: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) naar de domein namen: [https://www.mycrypto.com](https://www.mycrypto.com).
 *   Om wallets te genereren, kun je ook de [source code](https://github.com/kvhnuke/etherwallet/releases/latest) downloaden. Zie #5 hierboven.

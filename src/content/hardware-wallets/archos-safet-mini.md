@@ -24,7 +24,7 @@ Click on “GO TO MYCRYPTO” next to the Ethereum icon.
 
 It will open a new webpage: [https://beta.mycrypto.com.](https://beta.mycrypto.com/)
 
-Note that it opens [https://beta.mycrypto.com](https://beta.mycrypto.com/) instead of [www.mycrypto.com.](http://www.mycrypto.com/) MyCrypto is working on merging the new updates. In the meantime, please use this version of MyCrypto with your Safe-T Mini. 
+Note that it opens [https://beta.mycrypto.com](https://beta.mycrypto.com/) instead of [www.mycrypto.com.](http://www.mycrypto.com/) ClassicEtherWallet is working on merging the new updates. In the meantime, please use this version of MyCrypto with your Safe-T Mini. 
 
   
 **Next Steps**

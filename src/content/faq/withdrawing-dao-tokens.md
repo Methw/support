@@ -148,7 +148,7 @@ you are calling that line ^^^. The data breaks down like this:
 *   Click on `dist-v3.3.7.zip`
 *   Unzip it
 *   Double-click `index.html`
-*   MyCrypto is now running entirely on your computer
+*   ClassicEtherWallet is now running entirely on your computer
 
 In case you are not familiar, you need to keep the entire folder in order to run the website, not just `index.html`. Don't touch or move anything around in the folder.
 

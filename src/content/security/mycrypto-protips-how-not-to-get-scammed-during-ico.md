@@ -71,7 +71,7 @@ Or is there some extra verification that this is legit? Again, never rely on a s
 
 ![](https://i.imgur.com/kIzLh8t.png)
 
-And finally, when you go to contribute, make sure you are on a legit version of MyCrypto.com (https://mycrypto.com/)
+And finally, when you go to contribute, make sure you are on a legit version of MyCrypto.com (https://ethereumproject.github.io/etherwallet/)
 
 Check the URL. Check the SSL (it should always say MyCrypto, Inc [US]).
 

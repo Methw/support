@@ -27,7 +27,7 @@ There are a few posts I made after GNT and before MLN that contain good advice b
 
 ### 24 hours before the ICO
 
-- Go to the offline page: https://mycrypto.com/pushTx
+- Go to the offline page: https://ethereumproject.github.io/etherwallet/#broadcast-tx
 
 - Generate the info from *your* address. Your address is the address you are sending FROM.
 
@@ -55,7 +55,7 @@ Now you have 2 TXs. You can send the first one *or* the first and the second one
 
 ### At 1 hour before ICO time, open
 
-1. https://mycrypto.com/pushTx
+1. https://ethereumproject.github.io/etherwallet/#broadcast-tx
 
 2. https://etherscan.io/pushTx
 
@@ -69,7 +69,7 @@ Now you have 2 TXs. You can send the first one *or* the first and the second one
 
 ### At ICO time
 
-- Copy the first signed transaction into the box at the bottom of https://mycrypto.com/pushTx AND the box on etherscan.io.
+- Copy the first signed transaction into the box at the bottom of https://ethereumproject.github.io/etherwallet/#broadcast-tx AND the box on etherscan.io.
 
 - **Do NOT send from both places!!**
 

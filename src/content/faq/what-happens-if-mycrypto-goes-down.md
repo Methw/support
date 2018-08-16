@@ -10,7 +10,7 @@
 ---%
 
 
-MyCrypto is not a web wallet. You don't have a login, and nothing ever gets saved to our servers. It is simply an interface that allows you to interact with the blockchain.
+ClassicEtherWallet is not a web wallet. You don't have a login, and nothing ever gets saved to our servers. It is simply an interface that allows you to interact with the blockchain.
 
 If MyCrypto.com goes down, you would have to find another way (like geth or Ethereum Wallet / Mist) to do what we are doing. But you wouldn't have to "get" your Ether out of MyCrypto because it's not in MyCrypto. It's in whatever wallet your generated via our site.
 

@@ -10,7 +10,7 @@
 ---%
 ### How To Release Your ENS Name Post-1YR on MyCrypto's Interface:
 
-1. Navigate to MyCrypto's contracts tab https://mycrypto.com/contracts/interact.
+1. Navigate to MyCrypto's contracts tab https://ethereumproject.github.io/etherwallet/#contracts.
 
 2. In the **Select Existing Contract** dropdown select the *ENS: ETH Registrar (Auction)* option. Here is a picture of where you should be: https://i.imgur.com/A8ZnIR2.jpg. Click the *Access* button.
 

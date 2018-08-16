@@ -51,7 +51,7 @@ Instead, search your address (or bookmark it) on [etherscan.io](https://ethersca
 
 While you are at it, you should bookmark [https://ethereumproject.github.io/etherwallet/#send-transaction](https://ethereumproject.github.io/etherwallet/#send-transaction) as well.
 
-MyCrypto is a client-side wallet, which means you hold your own keys. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There are no stopping of transactions, canceling transactions, or resetting passwords. Once a transaction is on the blockchain, it's final.
+ClassicEtherWallet is a client-side wallet, which means you hold your own keys. If someone gets your private key (keystore file, mnemonic, passwords), they have complete access to your funds. There are no stopping of transactions, canceling transactions, or resetting passwords. Once a transaction is on the blockchain, it's final.
 
 For this reason, it is very, very important to keep your private key a secret and use it as rarely as possible. Only enter it on sites after double-checking to be sure you are on the correct site.
 

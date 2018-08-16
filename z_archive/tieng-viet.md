@@ -274,7 +274,7 @@ Tất cả những giả đinh trên nhằm xác định rõ đoạn mã đượ
 
 Nếu câu hỏi đầu tiên mà bạn đặt ra đó là "Vì sao tôi phải tin vào những người tạo ra trang này?", thì đó là một câu hỏi tốt. Hi vọng rằng những thông tin sau đây sẽ làm giảm bớt sự lo ngại từ phía bạn.
 
-*   Chúng tôi đã bất đầu đưa trang của chúng tôi ra thị trường vào tháng 8 năm 2015\. Nếu bạn tìm kiếm trên nguồn ["mycrypto" tại reddit](https://www.reddit.com/search?q=mycrypto), bạn sẽ thấy được lượng người hiện tại đang sử dụng và sự thành công của trang mycrypto.
+*   Chúng tôi đã bất đầu đưa trang của chúng tôi ra thị trường vào tháng 8 năm 2015\. Nếu bạn tìm kiếm trên nguồn ["ClassicEtherWallet" tại reddit](https://www.reddit.com/search?q=mycrypto), bạn sẽ thấy được lượng người hiện tại đang sử dụng và sự thành công của trang mycrypto.
 *   Chúng tôi không dùng trang này nhằm mục đích sử dụng tiền của bạn hoặc đánh cắp các Private key của bạn. Và trên trang của chúng tôi hoàn toàn không xuất hiện mã độc. Trong thực tế tại trang "Tạo Ví" là hoàn toàn được thực hiện từ người sử dụng. Việc này có nghĩa tất cả các đoạn mã và mật khẩu sẽ được thực hiện hoàn toàn trên **Máy tính cá nhân của bạn** và nó hoàn toàn không lưu lại hoặc chuyển đi bất cứ một dữ liệu nào ra khỏi máy tính của bạn.
 *   Hãy kiễm tra URL -- Trang của chúng tôi được cung cấp thông qua Github và bạn có thể kiễm tra lại toàn bộ mã nguồn ở đây: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) đến các tên miền: [https://www.mycrypto.com](https://www.mycrypto.com).
 *   Đối với việc khởi tạo Ví, bạn có thể tải về [Mã nguồn](https://github.com/kvhnuke/etherwallet/releases/latest). Xem phần #5 phía trên.

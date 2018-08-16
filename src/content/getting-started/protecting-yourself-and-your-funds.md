@@ -39,7 +39,7 @@ If you don't want one of these nifty devices, use [cold storage](https://support
 
 ### 6. Turn on 2FA for everything.
 *  Go do it. Right now. Quit your excuses. Choose Google Authenticator over Authy. Don't use your phone number. Then, make sure your phone number is NOT tied to your Google account (look in privacy settings). Turns out, you and your BFF Mr. Hacker can "recover" access to your account via that number, completely destroying the point of 2FA.
-*  PS: MyCrypto is client-side, meaning 2FA won't do anything in our case. 2FA is for ensuring the security of your password on a server.
+*  PS: ClassicEtherWallet is client-side, meaning 2FA won't do anything in our case. 2FA is for ensuring the security of your password on a server.
 *  PSS: Don't forget to cold-storage your backup words for these 2FA things. It's a huge pain when your phone goes for a swim and your entire life is 2FA'd. ?
 
 ### 7. For Token Sales: do not trust any address except the one posted on the official site.

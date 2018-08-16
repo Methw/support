@@ -291,7 +291,7 @@ Selvsagt betinger alt dette at nøkler blir generert på en virkelig tilfeldig m
 
 Hvis en av dine første spørsmål er "Hvorfor skulle jeg stole på disse folkene?", så er det en god ting. Forhåpentligvis vil følgende bidra til å lette på frykten din.
 
-*   Vi har vært oppe-og-gå siden august 2015\. Hvis du søker etter ["mycrypto" på reddit](https://www.reddit.com/search?q=mycrypto), så kan du se mange folk som bruker oss med stor suksess.
+*   Vi har vært oppe-og-gå siden august 2015\. Hvis du søker etter ["ClassicEtherWallet" på reddit](https://www.reddit.com/search?q=mycrypto), så kan du se mange folk som bruker oss med stor suksess.
 *   Vi kommer ikke til å ta pengene dine eller stjele dine private nøkler. Det er ingen ondsinnet kode på denne siden. Faktisk er "Send Ether & Tokens"-siden fullstendig klient-drevet. Det betyr at all koden blir kjørt på **din datamaskin** og det blir aldri lagret eller overført noe sted.
 *   Sjekk nettsideadressen (URL) -- Denne siden blir drevet gjennom GitHub og du kan se kildekoden her: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) til domenet: [https://www.mycrypto.com](https://www.mycrypto.com).
 *   For å generere lommebøker, kan du laste ned [kildekoden](https://github.com/kvhnuke/etherwallet/releases/latest). Se #5 ovenfor.

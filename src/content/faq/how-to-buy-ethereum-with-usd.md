@@ -79,7 +79,7 @@ Mist is highly recommended but some people have issues installing & syncing it. 
 
 **Just, MAKE SURE YOU BACK IT UP PLEASE.**
 
-- [MyCrypto.com](https://mycrypto.com/)(https://mycrypto.com)
+- [MyCrypto.com](https://ethereumproject.github.io/etherwallet/)(https://mycrypto.com)
 
 - [Legacy MyCrypto](https://legacy.mycrypto.com)(https://legacy.mycrypto.com)
 

@@ -19,7 +19,7 @@ If you sent coins to the address specified but have not received coins in return
 
 This ensure that we help you in a timely manner, especially during times of high volume.
 
-The quickest way to get this resolved is by going back to https://mycrypto.com/#swap and clicking the "Issue with your Swap? Contact support." link at the bottom of the page.
+The quickest way to get this resolved is by going back to https://ethereumproject.github.io/etherwallet/#swap and clicking the "Issue with your Swap? Contact support." link at the bottom of the page.
 
 This automatically fills all the information we need to resolve this, including:
 

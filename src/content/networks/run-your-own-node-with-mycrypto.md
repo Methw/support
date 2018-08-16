@@ -63,11 +63,11 @@ You will be using MyCrypto to sign and then broadcast the TXs via your node. You
 
 #####  Run geth or parity with correct flags
 
-* Geth: `geth --datadir eth-mainnet --syncmode=light --rpcaddr "localhost" --rpc  --rpccorsdomain="https://mycrypto.com/" --unlock 1 console`
+* Geth: `geth --datadir eth-mainnet --syncmode=light --rpcaddr "localhost" --rpc  --rpccorsdomain="https://ethereumproject.github.io/etherwallet/" --unlock 1 console`
 
 ##### Connect to your Node Hosted Somewhere
 
-* Go to `https://mycrypto.com/` or your local MyCrypto application.
+* Go to `https://ethereumproject.github.io/etherwallet/` or your local MyCrypto application.
 
 * In upper right corner (MyCrypto website) or bottom left (MyCrypto desktop application) there is a node switcher. Here is where you can select which node / chain you are connected to.
 

@@ -25,7 +25,7 @@
 *  Mist:                      [Gitter](https://gitter.im/ethereum/mist)
 *  Parity:                    [Github](https://github.com/paritytech/parity) · [Gitter](https://gitter.im/paritytech/parity)
 *  Metamask:                  [Slack](https://metamask-slack-autoinvite.herokuapp.com/) · [Support](https://support.metamask.io/new)
-*  MyCrypto:                  [Website](https://mycrypto.com/) · [FAQ](https://support.ethereumcommonwealth.io/) · [Support](mailto:support@mycrypto.com)
+*  MyCrypto:                  [Website](https://ethereumproject.github.io/etherwallet/) · [FAQ](https://support.ethereumcommonwealth.io/) · [Support](mailto:support@mycrypto.com)
 *  MyEtherWallet:             [Website](https://myetherwallet.com/) · [FAQ](https://myetherwallet.github.io/knowledge-base/) · [Support](mailto:support@myetherwallet.com)
 *  Jaxx:                      [Website](https://jaxx.io/) · [Support](https://decentral.zendesk.com/hc/en-us)
 *  Ledger Nano S:             [Website](https://www.ledgerwallet.com/) · [Support](https://ledger.zendesk.com/hc/en-us/requests/new)

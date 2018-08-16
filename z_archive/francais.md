@@ -327,7 +327,7 @@ Cela suppose bien entendu que les clefs sont générées d'une manière totaleme
 
 Si l'une des premières questions que vous vous posez est "Pourquoi devrais-je faire confiance à ces gens ?", c'est une bonne démarche. Nous espérons que ce qui suit va dissiper vos craintes.
 
-*   Nous avons commencé en août 2015\. Si vous recherchez ["mycrypto" sur reddit](https://www.reddit.com/search?q=mycrypto), vous pouvez voir qu'un nombre considérable de personnes nous utilisent sans problème.
+*   Nous avons commencé en août 2015\. Si vous recherchez ["ClassicEtherWallet" sur reddit](https://www.reddit.com/search?q=mycrypto), vous pouvez voir qu'un nombre considérable de personnes nous utilisent sans problème.
 *   Nous n'allons pas prendre votre argent ou voler vos clefs privées. Il n'y a pas de code malveillant sur ce site. En fait, les pages "Génération d'un portefeuille" sont totalement côté client. Cela signifie que tout le code s'éxécute sur **votre ordinateur** et n'est jamais sauvé et/ou transmis où que ce soit.
 *   Vérifiez l'URL -- Ce site est servi par Github et vous pouvez en voir le code source ici : [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) aux [https://www.mycrypto.com](https://www.mycrypto.com).
 *   Pour générer les portefeuilles, vous pouvez télécharger le [code source](https://github.com/kvhnuke/etherwallet/releases/latest). Voir #5 ci-dessus.

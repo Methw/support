@@ -27,7 +27,7 @@ Unless, for whatever reason, personally identifiable information becomes availab
 
 #### Interacting with Other Known Addresses
 
-One example is because you are sending to a known address. The address above (0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520) is the MyCrypto Donation address. It is displayed on the footer of [https://mycrypto.com/](https://mycrypto.com/) and also [labeled on Etherscan.io](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520).
+One example is because you are sending to a known address. The address above (0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520) is the MyCrypto Donation address. It is displayed on the footer of [https://ethereumproject.github.io/etherwallet/](https://ethereumproject.github.io/etherwallet/) and also [labeled on Etherscan.io](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520).
 
 If you were to send a transaction to wallet address 0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520, anyone using Etherscan to view the transaction or your address would know that your address donated to MyCrypto.
 

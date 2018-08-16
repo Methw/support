@@ -20,7 +20,7 @@ Remember to back up any wallets you create! Including the 12-word private seed p
 
 ### How To Create A New Wallet
 
-* Go to https://mycrypto.com/generate
+* Go to https://ethereumproject.github.io/etherwallet/#generate-wallet
 
 ![](https://i.imgur.com/N7xEOtS.png)
 
@@ -91,7 +91,7 @@ This prevents loss of the private key & password due to: dead hard drive, lost U
 
 ### MyCrypto cannot recover your key
 
-MyCrypto is not a web wallet and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
+ClassicEtherWallet is not a web wallet and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
 
 We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure & back up your key like the millions of dollars it could someday be worth.
 

@@ -102,7 +102,7 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 11. Repeat with all your tokens and then, last but not least, your ETH.
 
-12. Next time you want to send your ETH or Tokens, simply go to [MyCrypto](https://mycrypto.com/), click the "MetaMask" option. You will instantly connect. How easy is that?!
+12. Next time you want to send your ETH or Tokens, simply go to [MyCrypto](https://ethereumproject.github.io/etherwallet/), click the "MetaMask" option. You will instantly connect. How easy is that?!
 
 ## Warning!
 

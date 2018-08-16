@@ -151,7 +151,7 @@ As we are constantly updating MyCrypto.com, we recommend you periodically update
 
 ### What happens if your site goes down?
 
-MyCrypto is not a web wallet. You don't have a login and nothing ever gets saved to our servers. It is simply an interface that allows you interact with the blockchain.
+ClassicEtherWallet is not a web wallet. You don't have a login and nothing ever gets saved to our servers. It is simply an interface that allows you interact with the blockchain.
 
 If MyCrypto.com goes down, you would have to find another way (like geth or Ethereum Wallet / Mist) to do what we are doing. But you wouldn't have to "get" your Ether out of MyCrypto because it's not in MyCrypto. It's in whatever wallet your generated via our site.
 
@@ -295,7 +295,7 @@ Of course, this all assumes that keys are generated in a truly random way & with
 
 If one of your first questions is "Why should I trust these people?", that is a good thing. Hopefully the following will help ease your fears.
 
-*   We've been up and running since August 2015\. If you search for ["mycrypto" on reddit](https://www.reddit.com/search?q=mycrypto), you can see numerous people who use us with great success.
+*   We've been up and running since August 2015\. If you search for ["ClassicEtherWallet" on reddit](https://www.reddit.com/search?q=mycrypto), you can see numerous people who use us with great success.
 *   We aren't going to take your money or steal your private key(s). There is no malicious code on this site. In fact the "GENERATE WALLET" pages are completely client-side. That means that all the code is executed on **your computer** and it is never saved and transmitted anywhere.
 *   Check the URL -- This site is being served through GitHub and you can see the source code here: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages) to [https://www.mycrypto.com](https://www.mycrypto.com).
 *   For generating wallets, you can download the [source code and run it locally](https://github.com/kvhnuke/etherwallet/releases/latest). See #5 above.

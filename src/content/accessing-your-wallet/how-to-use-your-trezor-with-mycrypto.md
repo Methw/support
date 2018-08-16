@@ -57,7 +57,7 @@ The TREZOR is one of the best and easiest cryptocurrency hardware wallets out th
 
 ## Connecting to your TREZOR with MyCrypto
 
-###### It's time to access our TREZOR using MyCrypto! In order to do so, go to [MyCrypto.com](https://mycrypto.com/)
+###### It's time to access our TREZOR using MyCrypto! In order to do so, go to [MyCrypto.com](https://ethereumproject.github.io/etherwallet/)
 
 1. Plug in your TREZOR.
 

@@ -17,7 +17,7 @@ Are you sure?
 
 ### Please understand [the difference between an exchange and MyCrypto](https://support.ethereumcommonwealth.io/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html).
 
-MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold onto. We are simply an interface that allows you to easily interact with the Ethereum blockchain. In order to ensure your security & privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto.
+ClassicEtherWallet is not a "web wallet". You do not create an account or give us your ETH or tokens to hold onto. We are simply an interface that allows you to easily interact with the Ethereum blockchain. In order to ensure your security & privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto.
 
 That's right: **we only have access to the information that is publicly available on the blockchain.**
 
@@ -42,7 +42,7 @@ Good! :)
 
 ### Then, unlock your wallet and copy the address from the sidebar.
 
-1. Go to [MyCrypto](https://mycrypto.com/).
+1. Go to [MyCrypto](https://ethereumproject.github.io/etherwallet/).
 3. Unlock your wallet.
 4. Your address can be seen on the right-hand side, next to a colorful icon.
 5. Use this as the destination address to send from your exchange to your new wallet

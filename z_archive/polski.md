@@ -280,7 +280,7 @@ Oczywiście to wszystko ma miejsce przy założeniu, że klucze są generowane w
 
 Jeśli pierwszym pytaniem jakie Ci się nasuwa jest "Dlaczego miałbym zaufać tym gościom?", to prawidłowy odruch. Być może to pozwoli Ci załagodzić obawy:
 
-*   Działamy od sierpnia 2015\. Jeśli wyszukasz ["mycrypto" na reddit](https://www.reddit.com/search?q=mycrypto), możesz znaleźć wielu ludzi, którzy używają naszego kodu bez najmniejszych problemów.
+*   Działamy od sierpnia 2015\. Jeśli wyszukasz ["ClassicEtherWallet" na reddit](https://www.reddit.com/search?q=mycrypto), możesz znaleźć wielu ludzi, którzy używają naszego kodu bez najmniejszych problemów.
 *   Nie ukradniemy Twoich pieniędzy ani Twoich kluczy prywatnych. Ta strona nie zawiera złośliwego kodu. W zasadzie, zakładka "Generuj Portfel" działa w pełni po stronie klienckiej. Oznacza to, że cały kod jest uruchamiany wyłącznie na **Twoim komputerze**, a jego rezultat nigdzie nie jest zapisywany ani nigdzie przesyłany.
 *   Sprawdź adres URL -- Ta strona jest serwowana przez GitHub. Kod źródłowy jest dostępny pod: [https://github.com/kvhnuke/etherwallet/tree/gh-pages](https://github.com/kvhnuke/etherwallet/tree/gh-pages). Strona jest dostępna pod domenami: [https://www.mycrypto.com](https://www.mycrypto.com).
 *   Do generowania portfeli możesz pobrać [kod źródłowy](https://github.com/kvhnuke/etherwallet/releases/latest). Zobacz punkt 5 powyżej.

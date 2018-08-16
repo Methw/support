@@ -17,7 +17,7 @@ Unfortunately, once a transaction is on the blockchain, it's final. We do what
 ### In order to prevent this from happening in the future please:
 
 1. [Read: Protecting yourself and your funds](https://support.ethereumcommonwealth.io/getting-started/protecting-yourself-and-your-funds.html)
-2.  Bookmark [https://mycrypto.com/](https://mycrypto.com/)  and only access the site via your own bookmark.
+2.  Bookmark [https://ethereumproject.github.io/etherwallet/](https://ethereumproject.github.io/etherwallet/)  and only access the site via your own bookmark.
 3. Get a [Ledger or Trezor](https://support.ethereumcommonwealth.io/hardware-wallets/hardware-wallet-recommendations.html) -or- create a [new, secure wallet](https://support.ethereumcommonwealth.io/getting-started/creating-a-new-wallet-on-mycrypto.html) & back it up offline.
 4.  Move all funds from all accounts you have to this new, secure account as soon as possible.
 

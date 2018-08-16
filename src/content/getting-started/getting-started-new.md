@@ -27,7 +27,7 @@
 </h3>
 
 <ul>
-<li>  MyCrypto is a free, open-source, client-side interface.  </li>
+<li>  ClassicEtherWallet is a free, open-source, client-side interface.  </li>
 <li>  We allow you to interact directly with the blockchain while remaining in full control of your keys & your funds.  </li>
 <li>  You and only you are responsible for your security.  </li>
 <li>  We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key. </li>
@@ -45,7 +45,7 @@
 
 
 <h3>
-  MyCrypto is not a Bank
+  ClassicEtherWallet is not a Bank
 </h3>
 
 <ul>
@@ -69,7 +69,7 @@
 
 
 <h3>
-  MyCrypto is an Interface
+  ClassicEtherWallet is an Interface
 </h3>
 
 <ul>

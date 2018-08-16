@@ -10,7 +10,7 @@
 ---%
 
 
-MyCrypto is a client-side interface. If you are not seeing a token, in the sidebar, you simply need to add that token to your MyCrypto interface in order to see the balance and send it.
+ClassicEtherWallet is a client-side interface. If you are not seeing a token, in the sidebar, you simply need to add that token to your MyCrypto interface in order to see the balance and send it.
 
 [The most up to date instructions on how to do so can be found here.](https://support.ethereumcommonwealth.io/send/adding-new-token-and-sending-custom-tokens.html)
 

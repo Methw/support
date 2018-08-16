@@ -10,7 +10,7 @@
 ---%
 
 
-MyCrypto is a front end interface that enables you to interact directly with the Ethereum blockchain.
+ClassicEtherWallet is a front end interface that enables you to interact directly with the Ethereum blockchain.
 
 Any Ethereum address can receive and store Ethereum-based tokens ("ERC-20" tokens).
 

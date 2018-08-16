@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Knowledge Base that lives at support.mycrypto.com",
   "main": "gulpfile.js",
-  "author": "MyCrypto",
+  "author": "ClassicEtherWallet",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",

@@ -57,7 +57,7 @@ Now we are done configuring the Nano S to work with MyCrypto. You can press the 
 
 ### Using the Ledger Nano S with MyCrypto
 
-It's time to access our Nano S using MyCrypto! In order to do so, go to [MyCrypto](https://mycrypto.com/) and click the "Ledger" option.
+It's time to access our Nano S using MyCrypto! In order to do so, go to [MyCrypto](https://ethereumproject.github.io/etherwallet/) and click the "Ledger" option.
 
 <img src="../images/ledger-migration/screenshots/ledger-screen.png" >
 

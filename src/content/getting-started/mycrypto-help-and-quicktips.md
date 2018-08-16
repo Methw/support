@@ -79,7 +79,7 @@
 
 34. Keystore File (UTC / JSON): This is encrypted by your password. It matches the format used by Mist so you can easily import it in the future
 
-35. MyCrypto is client-side / serverless. We are 100% open source & audit-able by all
+35. ClassicEtherWallet is client-side / serverless. We are 100% open source & audit-able by all
 
 36. MyCrypto supports viewing & sending all ERC-20 Tokens. You can add them yourself
 
